@@ -1,2 +1,3 @@
 # demo
-This is git repo
+This is git repository.
+Author - Siddharth Vidyanand Awadh
